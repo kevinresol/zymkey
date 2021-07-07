@@ -1,0 +1,13 @@
+{
+	"name": "zymkey",
+	"description": "Zymkey",
+	"classPath": "src",
+	"url": "https://github.com/kevinresol/zymkey",
+	"contributors": [
+		"kevinresol"
+	],
+	"version": "0.1.0",
+	"releasenote": "Init",
+	"tags": ["zymkey"],
+	"license": "MIT"
+}

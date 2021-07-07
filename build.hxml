@@ -1,0 +1,11 @@
+-cp src
+Zymkey
+-js dist/index.js
+-dce full
+
+-lib hxnodejs
+-lib genes
+
+-D dts
+
+-D analyzer-optimize

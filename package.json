@@ -1,0 +1,18 @@
+{
+  "name": "zymkey-napi",
+  "version": "0.1.0",
+  "main": "dist/Zymkey.js",
+  "type": "module",
+  "types": "dist/Zymkey.d.ts",
+  "dependencies": {
+    "ffi-napi": "^4.0.3",
+    "ref-napi": "^3.0.3"
+  },
+  "devDependencies": {
+    "lix": "^15.10.1"
+  },
+  "scripts": {
+    "setup": "lix download",
+    "build": "haxe build.hxml"
+  }
+}

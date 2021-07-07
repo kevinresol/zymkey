@@ -1,0 +1,7 @@
+-cp src
+-cp tests
+-main Playground
+-js bin/playground.js
+-dce full
+
+-lib hxnodejs

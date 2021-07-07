@@ -1,0 +1,16 @@
+.vscode
+
+src
+tests
+bin
+dist/index.js
+
+node_modules
+
+# scripts
+*.sh
+
+# haxe
+.haxerc
+*.hxml
+haxelib.json
